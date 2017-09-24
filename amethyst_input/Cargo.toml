@@ -15,7 +15,7 @@ appveyor = { repository = "amethyst/amethyst" }
 travis-ci = { repository = "amethyst/amethyst" }
 
 [dependencies]
-winit = "0.7"
+winit = "0.8"
 fnv = "1.0"
 serde = "1"
 serde_derive = "1"
